@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.1",
+    "jwt-decode": "^4.0.0",
+    "jwt-decoder": "^0.0.0",
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1",
+    "redux-persist": "^6.0.0"
+  }
+}
